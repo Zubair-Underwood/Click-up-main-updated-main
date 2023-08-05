@@ -133,29 +133,21 @@
     position: relative;
 }
 
-.services-container h3 {
+/* .service-container-wrapper ul{
+
+    margin: 0 40px;
+} */
+
+.service-container-wrapper h3 {
 
     font-size: var(--heading-size);
     font-weight: var(--heading-weight);
 }
 
-.services-container p {
+.service-container-wrapper p {
 
     font-size: var(--text-size);
     font-weight: var(--text-weight);
-}
-
-.services-container button {
-
-    margin: 2px 3px;
-    background: var(--white-button-color);
-    border: none;
-
-}
-
-.services-container button:hover {
-
-    box-shadow: var(--button-box-shadow);
 }
 
 .sign-up-container input {
@@ -199,7 +191,6 @@
     height: 1000px;
 
 }
-
 /* blob-content container Ends */
 
 
